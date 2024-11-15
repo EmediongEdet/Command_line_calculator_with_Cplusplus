@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/C++_Calculator/FileContentIndex
+/.vs/Command_line_calculator_with_Cplusplus/FileContentIndex
+/x64/Debug
+/Debug
+/C++_Calculator/Debug
