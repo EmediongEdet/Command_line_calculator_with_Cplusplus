@@ -22,7 +22,7 @@ Data structure from STL list
 Inheritance with virtual functions
 
 ### Purpose
-The purpose of this program is to help one become familiarize with the basics C++ language and its abilities in solving real-life problems.
+The purpose of this program is to help one become familiar with the basics of C++ language and its abilities to solve real-life problems.
 
 
 [Software Demo Video](https://youtu.be/xZ0vg4BABC8)
@@ -30,7 +30,7 @@ The purpose of this program is to help one become familiarize with the basics C+
 # Development Environment
 
 ### Tools Used
-The practice uses cLion and the MinGW Gnu Compiller Collection (GCC) to compile, build and run the program.
+The program uses cLion and the MinGW Gnu Compiler Collection (GCC) to compile, build, and run the program.
 
 
 ### Language Used
