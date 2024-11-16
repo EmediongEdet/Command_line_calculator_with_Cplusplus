@@ -25,7 +25,7 @@ Inheritance with virtual functions
 The purpose of this program is to help one become familiar with the basics of C++ language and its abilities to solve real-life problems.
 
 
-[Software Demo Video](https://youtu.be/xZ0vg4BABC8)
+[Software Demo Video](https://youtu.be/Z8vXuFnlXbI)
 
 # Development Environment
 
